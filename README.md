@@ -19,7 +19,7 @@ Some of the packages to be used.
 9. auto-sklearn
 10. wandb
 
-i) Data imputation techniques. - All given in blog
+i) Data imputation techniques. 
 
 ii) Feature Selection
 a) Data visualization
@@ -67,8 +67,4 @@ ii) Feature selection techniques
 iii) Dimensionality Reduction techniques
 iv) Different parameters for each regressor
 
-Note:
-1. Give proper structure for directory as in industry
-2. Use design patterns
-3. Use pipelines. abstract methods, classes
-4. Use linters
+
